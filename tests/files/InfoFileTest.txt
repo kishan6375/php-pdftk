@@ -3,4 +3,4 @@ InfoKey: Creator
 InfoValue: php-pdftk
 InfoBegin
 InfoKey: Subject
-InfoValue: öäüÖÄÜ
+InfoValue: öäüÖÄÜhttps://github.com/mikehaertl/php-pdftk/blob/master/tests/files/InfoFileTest.txt
